@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-04-26T01:03:40.625Z" agent="5.0 (Macintosh)" etag="jRHErcsK8wVE9UQQ-ieu" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-26T01:25:44.259Z" agent="5.0 (Macintosh)" etag="-z_5wM4v5V4J7zCrxhZz" version="14.6.6" type="github">
   <diagram id="LggS6HPZgjN6Ui5qVZqp" name="Page-1">
     <mxGraphModel dx="1554" dy="793" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oYrc2Cjy6K_ESoqNYmJO-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" parent="1" vertex="1">
-          <mxGeometry x="93" y="56" width="990" height="650" as="geometry" />
+          <mxGeometry x="82" y="48" width="989" height="689" as="geometry" />
         </mxCell>
         <mxCell id="oYrc2Cjy6K_ESoqNYmJO-2" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" parent="oYrc2Cjy6K_ESoqNYmJO-1" vertex="1">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
@@ -48,6 +48,39 @@
         </mxCell>
         <mxCell id="s7iCrM4hBrOnHmUGDK4r-8" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.blinklist;strokeColor=none;fontColor=#FFFFFF;fillColor=#66FF66;" vertex="1" parent="s7iCrM4hBrOnHmUGDK4r-1">
           <mxGeometry x="10" y="13.5" width="43" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="s7iCrM4hBrOnHmUGDK4r-9" value="&lt;b&gt;Premio 1&lt;/b&gt;&lt;br&gt;&lt;br&gt;This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=14;spacingTop=160;" vertex="1" parent="oYrc2Cjy6K_ESoqNYmJO-1">
+          <mxGeometry x="104" y="220" width="269" height="426" as="geometry" />
+        </mxCell>
+        <mxCell id="s7iCrM4hBrOnHmUGDK4r-10" value="Image cap" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="s7iCrM4hBrOnHmUGDK4r-9">
+          <mxGeometry width="269" height="160" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s7iCrM4hBrOnHmUGDK4r-27" value="Premio 1" style="strokeColor=none;fontSize=24;align=center;fillColor=none;fontStyle=1" vertex="1" parent="oYrc2Cjy6K_ESoqNYmJO-1">
+          <mxGeometry x="55" y="189" width="70" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="s7iCrM4hBrOnHmUGDK4r-28" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&#xa;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="oYrc2Cjy6K_ESoqNYmJO-1">
+          <mxGeometry x="424" y="423" width="511" height="235" as="geometry" />
+        </mxCell>
+        <mxCell id="s7iCrM4hBrOnHmUGDK4r-29" value="Fecha:" style="fillColor=none;strokeColor=none;fontSize=14;align=center;" vertex="1" parent="oYrc2Cjy6K_ESoqNYmJO-1">
+          <mxGeometry x="414" y="256" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s7iCrM4hBrOnHmUGDK4r-30" value="02/12/2021" style="fillColor=none;strokeColor=none;fontSize=14;align=center;" vertex="1" parent="oYrc2Cjy6K_ESoqNYmJO-1">
+          <mxGeometry x="504" y="256" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s7iCrM4hBrOnHmUGDK4r-31" value="Organización: " style="fillColor=none;strokeColor=none;fontSize=14;align=center;" vertex="1" parent="oYrc2Cjy6K_ESoqNYmJO-1">
+          <mxGeometry x="434" y="223" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s7iCrM4hBrOnHmUGDK4r-32" value="Descripción:" style="fillColor=none;strokeColor=none;fontSize=14;align=center;" vertex="1" parent="oYrc2Cjy6K_ESoqNYmJO-1">
+          <mxGeometry x="430" y="361" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s7iCrM4hBrOnHmUGDK4r-33" value="Nombre: " style="fillColor=none;strokeColor=none;fontSize=14;align=center;" vertex="1" parent="oYrc2Cjy6K_ESoqNYmJO-1">
+          <mxGeometry x="419" y="309" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s7iCrM4hBrOnHmUGDK4r-34" value="Premios Grammy" style="fillColor=none;strokeColor=none;fontSize=14;align=center;" vertex="1" parent="oYrc2Cjy6K_ESoqNYmJO-1">
+          <mxGeometry x="520" y="309" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s7iCrM4hBrOnHmUGDK4r-36" value="National Academy of Recording Arts &amp; Sciences" style="fillColor=none;strokeColor=none;fontSize=14;align=center;" vertex="1" parent="oYrc2Cjy6K_ESoqNYmJO-1">
+          <mxGeometry x="635" y="225" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
